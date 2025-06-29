@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
-<h3 align="center">I am learning and developing exciting Flutter projects</h3>
+<h3 align="center">I am learning and developing exciting Flutter projects as well as .NET CORE Projects here</h3>
 <img align = "center" alt="Coding" width = "500" src = "https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kujjwal69&label=Profile%20views&color=0e75b6&style=flat" alt="kujjwal69" /> </p>
 
